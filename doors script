@@ -1,0 +1,63 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("script hub", "Synapse")
+    -- MAIN
+    local Main = Window:NewTab("script hub")
+    local MainSection = Main:NewSection("Main")
+
+    MainSection:NewButton("sword", "gives you sword", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/Fv0Cd9pz'))()
+    end)
+
+    MainSection:NewButton("Explosive galaxy 7", "gives you a galaxy 7", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/861SQXj7'))()
+    end)
+
+MainSection:NewButton("nuke", "gives you c7", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Plsstpppppp/OKm/main/README.md'))()
+    end)
+
+MainSection:NewButton("A-60", "gives you c7", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/8fB9YUBG'))()
+end)
+
+MainSection:NewButton("rtx", "gives you c7", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/HAuQ74SY'))()
+    end)
+MainSection:NewButton("entity spawner", "gives you c7", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCherryKardes/Doors-Hub/main/Mobile%20Hub"))()
+end)
+
+MainSection:NewButton("crucifix", "gives c7", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Johnny39871/assets/main/crucifixo'))()
+-- CRUCIFIX
+end)
+
+MainSection:NewButton("iforgot", "gives c7", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/CometRestoration/main/Main.lua"))()
+end)
+MainSection:NewButton("list for the entity's credits to neon", "gives c7", function()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("script hub", "Synapse")
+    -- MAIN
+    local Main = Window:NewTab("script hub")
+    local MainSection = Main:NewSection("Main")
+end)
+
+
+MainSection:NewButton("troll", "gives you c7", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/4PtX7dGp'))()
+    end)
+
+
+MainSection:NewButton("rush", "gives you c7", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/nyTKfUd1'))()
+    end)
+
+MainSection:NewButton("ambush", "gives you c7", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/40Em1wPx'))()
+    end)
+
+MainSection:NewButton("keyboard", "gives you c7", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
