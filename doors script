@@ -96,3 +96,11 @@ end)
 MainSection:NewButton("seek crucifix works like the original one", "idk if it works on seek", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RmdComunnityScriptsProvider/AngryHub/main/Seek%20Crucifix.lua"))()
 end)
+
+MainSection:NewButton("Minecraft room mod (made by penguinmaniack", "Minecraft", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/y2WmccLk"))()
+end)
+
+MainSection:NewButton("I forgot ", "Minecraft", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
